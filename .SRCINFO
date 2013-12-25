@@ -1,0 +1,13 @@
+pkgbase = nodejs-jsonlint
+	pkgdesc = Validate JSON
+	pkgver = 1.5.1
+	pkgrel = 1
+	url = http://zaach.github.com/jsonlint/
+	arch = any
+	depends = nodejs
+	noextract = jsonlint-1.5.1.tgz
+	source = http://registry.npmjs.org/jsonlint/-/jsonlint-1.5.1.tgz
+	sha1sums = 3cf436dcc9f3477ef3d7fa55a5bdf6d893f1c6c6
+
+pkgname = nodejs-jsonlint
+
