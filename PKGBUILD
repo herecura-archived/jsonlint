@@ -3,9 +3,10 @@
 pkgname=jsonlint
 _npmname=jsonlint
 pkgver=1.6.0
-pkgrel=1
+pkgrel=2
 pkgdesc="Validate JSON"
 arch=('any')
+makedepends=('npm')
 depends=('nodejs')
 url="http://zaach.github.io/jsonlint/"
 license=('MIT')

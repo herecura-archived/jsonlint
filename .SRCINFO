@@ -1,10 +1,11 @@
 pkgbase = jsonlint
 	pkgdesc = Validate JSON
 	pkgver = 1.6.0
-	pkgrel = 1
+	pkgrel = 2
 	url = http://zaach.github.io/jsonlint/
 	arch = any
 	license = MIT
+	makedepends = npm
 	depends = nodejs
 	provides = nodejs-jsonlint
 
